@@ -5,3 +5,5 @@ Personal Organization Online
 # Dependencies
 
 `django`
+
+`python decouple`
