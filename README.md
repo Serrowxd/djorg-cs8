@@ -7,3 +7,9 @@ Personal Organization Online
 `django`
 
 `python decouple`
+
+`djangorestframework`
+
+`markdown`
+
+`django-filter`
