@@ -15,3 +15,11 @@ Personal Organization Online
 `django-filter`
 
 `django-heroku`
+
+`gunicorn`
+
+`psycopg2-binary`
+
+`dj-database-url`
+
+`whitenoise`
