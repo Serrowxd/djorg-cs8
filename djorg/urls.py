@@ -31,3 +31,5 @@ urlpatterns = [
     path(r"api/", include(router.urls)),
     # url(r"^api-auth/", include("rest_framework.urls")), ## this is overwritten by the above path(r"api/") code.
 ]
+
+# test
