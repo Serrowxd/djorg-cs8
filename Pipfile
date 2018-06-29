@@ -9,9 +9,9 @@ python-decouple = "*"
 djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
+django-heroku = "*"
 
 [dev-packages]
-black = "*"
 
 [requires]
 python_version = "3.6"

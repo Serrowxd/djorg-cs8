@@ -13,3 +13,5 @@ Personal Organization Online
 `markdown`
 
 `django-filter`
+
+`django-heroku`
